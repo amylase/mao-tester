@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# your solution files
+solutions/*.py
+solutions/output.txt
+!solutions/template.py
+!solutions/utils.py
+!solutions/__init__.py
